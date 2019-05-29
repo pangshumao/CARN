@@ -56,6 +56,15 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="503657028">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="DenseNet-tf" />
@@ -65,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/dense_net_regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="712" column="21" lean-forward="true" selection-start-line="712" selection-start-column="21" selection-end-line="712" selection-end-column="21" />
+            <state relative-caret-position="15400">
+              <caret line="712" column="21" selection-start-line="712" selection-start-column="21" selection-end-line="712" selection-end-column="21" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
                 <marker date="1554274716872" expanded="true" signature="14291:14782" ph="..." />
@@ -79,23 +88,21 @@
         <entry file="file://$PROJECT_DIR$/showEachHeight.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="19" column="90" lean-forward="true" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="90" />
+              <caret line="19" column="90" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="90" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run_evaluate_vb.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-280" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pairedTTest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -106,7 +113,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_providers/spine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="4268">
               <caret line="204" column="54" selection-start-line="204" selection-start-column="54" selection-end-line="204" selection-end-column="54" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -118,8 +125,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_providers/base_provider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
-              <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            <state relative-caret-position="616">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -127,8 +134,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/train_spine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+            <state relative-caret-position="169">
+              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -136,8 +143,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_spine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="106" selection-start-line="106" selection-end-line="107" />
+            <state relative-caret-position="227">
+              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -194,6 +201,9 @@
       <find>group</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -222,9 +232,9 @@
         <option value="$PROJECT_DIR$/data_providers/base_provider.py" />
         <option value="$PROJECT_DIR$/data_providers/utils.py" />
         <option value="$PROJECT_DIR$/data_providers/spine.py" />
-        <option value="$PROJECT_DIR$/test_spine.py" />
         <option value="$PROJECT_DIR$/models/dense_net_regression.py" />
         <option value="$PROJECT_DIR$/train_spine.py" />
+        <option value="$PROJECT_DIR$/test_spine.py" />
       </list>
     </option>
   </component>
@@ -727,13 +737,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="61" column="71" selection-start-line="61" selection-start-column="71" selection-end-line="61" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rst" />
     <entry file="file://D:/Anaconda3/Lib/site-packages/matplotlib/figure.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
@@ -851,39 +855,9 @@
     <entry file="file://D:/anaconda3/envs/py36/Lib/os.py" />
     <entry file="file://D:/anaconda3/envs/py36/Lib/site-packages/pylab.py" />
     <entry file="file://D:/anaconda3/envs/py36/Lib/site-packages/matplotlib/pyplot.py" />
-    <entry file="file://$PROJECT_DIR$/models/dense_net.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4576">
-          <caret line="214" column="38" selection-start-line="214" selection-start-column="38" selection-end-line="214" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/models/dense_net.py" />
     <entry file="file://$PROJECT_DIR$/data_providers/utils.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/preprocessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_providers/base_provider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_providers/spine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="204" column="54" selection-start-line="204" selection-start-column="54" selection-end-line="204" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://D:/Anaconda3/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -892,28 +866,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_providers/downloader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run_dense_net.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="78" column="32" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fdata.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data_providers/downloader.py" />
+    <entry file="file://$PROJECT_DIR$/run_dense_net.py" />
+    <entry file="file://$PROJECT_DIR$/fdata.txt" />
     <entry file="file://$PROJECT_DIR$/getSamples.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -921,39 +876,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_spine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="106" selection-start-line="106" selection-end-line="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/showEachHeight.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="19" column="90" lean-forward="true" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run_evaluate_vb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-280" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pairedTTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/models/dense_net_regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="712" column="21" lean-forward="true" selection-start-line="712" selection-start-column="21" selection-end-line="712" selection-end-column="21" />
+        <state relative-caret-position="15400">
+          <caret line="712" column="21" selection-start-line="712" selection-start-column="21" selection-end-line="712" selection-end-column="21" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
             <marker date="1554274716872" expanded="true" signature="14291:14782" ph="..." />
@@ -961,10 +887,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/showEachHeight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" column="90" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_evaluate_vb.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pairedTTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_providers/spine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4268">
+          <caret line="204" column="54" selection-start-line="204" selection-start-column="54" selection-end-line="204" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_providers/base_provider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_spine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/train_spine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+        <state relative-caret-position="169">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
         </state>
       </provider>
     </entry>

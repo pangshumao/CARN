@@ -29,7 +29,6 @@ def get_train_params_by_name(name):
         return train_params_spine
 
 if __name__ == '__main__':
-    random.seed(10)
     parser = argparse.ArgumentParser()
     parser.add_argument(
         '--train', action='store_true',
